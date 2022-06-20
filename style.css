@@ -1,0 +1,55 @@
+/* 
+Color Palette
+HEX: #f0f0f0
+HEX: #c5d5c5
+HEX: #9fa9a3 < background-color
+HEX: #e3e0cc < border-color & hr
+*/
+
+body {
+  background-color: #9fa9a3;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  padding: 5px;
+}
+
+img {
+  height: auto;
+  width: 500px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #e3e0cc;
+  margin: 0 0 20px 0;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+ul,
+ol {
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+}
+
+hr {
+  height: 2px;
+  background-color: #e3e0cc;
+  border-color: #e3e0cc;
+  margin: 0 0 20px 0;
+}
+
+.indexlist {
+  margin: 20px 0 20px 200px;
+}
+
+.servings {
+  text-align: left;
+}
