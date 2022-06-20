@@ -48,10 +48,14 @@ hr {
 
 div {
   width: 80%;
-  max-width: 500px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
+}
+
+.index {
+  max-width: 500px;
 }
 
 .servings {
